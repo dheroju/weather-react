@@ -1,0 +1,55 @@
+body {
+  font-family: "PT Mono", monospace;
+  background: navajowhite;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  text-align: center;
+}
+
+ul {
+  color: #ffffff;
+  max-width: 600px;
+  padding: 20px;
+  margin: 30px auto;
+  margin-top: 5px;
+  border-radius: 1px solid #000;
+  border-radius: 5px;
+  display: block;
+  background-image: url(https://assets.msn.com/weathermapdata/1/static/background/v2.0/compactads3/Clear%20Night.png);
+}
+
+.container {
+  color: rgba(255, 255, 255, 0.514);
+  max-width: 600px;
+  margin: 30px auto;
+}
+
+.Enteracity {
+  position: relative;
+  top: -31px;
+  left: 99px;
+}
+.search {
+  position: relative;
+  top: 50;
+  left: 100px;
+}
+
+.weather-app-wrapper {
+  max-width: 600px;
+  margin: 30px auto;
+}
+.weather-app {
+  max-width: 600px;
+  padding: 20px;
+  border-radius: 1px solid #000;
+  border-radius: 5px;
+  background-image: url(https://assets.msn.com/weathermapdata/1/static/background/v2.0/compactads3/Clear%20Night.png);
+}
+
+.overview {
+  margin-bottom: 10px;
+}
