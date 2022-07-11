@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Open-source code
+          <em>Open-source code</em>
         </a>{" "}
         ,by Aderoju Johnson
       </small>
